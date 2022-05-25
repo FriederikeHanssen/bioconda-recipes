@@ -30,7 +30,6 @@ requirements:
   run:
     - python >=3.1
     - numpy
-    - cython
     - pysam
     - fermi2
 
