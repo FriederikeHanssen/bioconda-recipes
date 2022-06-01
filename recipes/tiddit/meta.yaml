@@ -24,11 +24,8 @@ requirements:
     - numpy
     - pysam
     - fermi2
-    - pip
-    - bwa
-    - ropebwt2
   run:
-    - python >=3.1
+    - pip
     - numpy
     - pysam
     - fermi2
